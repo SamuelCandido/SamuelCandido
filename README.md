@@ -1,5 +1,8 @@
 <body>
-    <h1>👋 Hi, I'm Samuel José Candido</h1>
+    <div align="center">
+        <img "heigth="40%" width="70%" src="https://live.staticflickr.com/65535/52765883992_c2e69064ae_h.jpg" />
+    </div>
+    <hr>
  <!-- //Gitstats -->
     <div>
         <img height="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SamuelCandido&show_icons=true&theme=github_dark&count_private=true">
@@ -31,5 +34,4 @@
       
   </div>
 <!-- //Contatos -->
-  
 </body>
