@@ -3,14 +3,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Samuel+José+Candido;I+was+born+in+2004;I+am+from+Blumenau,+SC;Welcome+to+my+github!+)](https://git.io/typing-svg)
+
 <!-- //Apresentação -->
     
 <!-- Gitstats -->
 <div align="center">
-    <img height="40%" src="https://github-readme-stats.vercel.app/api?username=SamuelCandido&show_icons=true&count_private=true&title_color=00FFFF&icon_color=0000CD&text_color=00FFFF&bg_color=0,000000,130F40" alt="Samuel Candido github stats" /> 
-    <img height="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelCandido&layout=compact&langs_count=6&title_color=00FFFF&text_color=00FFFF&bg_color=0,000000,130F40" />
-  <a href="https://app.daily.dev/samuelcandido"><img height="165" src="https://api.daily.dev/devcards/86ef72e46b684f8c946dbc43b6bb6732.png?r=2to" alt="Samuel José Candido's Dev Card"/></a>
-    
+    <img height="50%" src="https://github-readme-stats.vercel.app/api?username=SamuelCandido&show_icons=true&count_private=true&title_color=00FFFF&icon_color=0000CD&text_color=00FFFF&bg_color=0,000000,130F40" alt="Samuel Candido github stats" /> 
+    <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelCandido&layout=compact&langs_count=6&title_color=00FFFF&text_color=00FFFF&bg_color=0,000000,130F40" />
 </div>
 <!-- //Gitstats -->
   
@@ -19,6 +18,7 @@
   
 <!-- Table Icons -->  
 <div align="center" display="inline-block">
+  
   <h4>I've worked with:</h4>
   
   | Front-end | Back-end | Banco de dados |
@@ -28,6 +28,7 @@
   | <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> | <img align="center" alt="Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /> | <img align="center" alt="Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" /> |
   | <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> |  | <img align="center" alt="Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" /> |
 </div>
+  <a href="https://app.daily.dev/samuelcandido"><img  align="right" height="185" width="200" src="https://api.daily.dev/devcards/86ef72e46b684f8c946dbc43b6bb6732.png?r=2to" alt="Samuel José Candido's Dev Card"/>
 <!-- //Table icons -->
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -52,8 +53,12 @@
 <!-- //Contatos -->
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{SamuelCandido}/count.svg" /></p> 
+<br><p align="center"><b>Visitors Count</b></a></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{SamuelCandido}/count.svg" /></p>
+<p><img align="center"  height="165" src="https://media2.giphy.com/media/YrOB0Y5o2tFbHj5u31/200w.gif?cid=82a1493bkrg9hjvtemnex2xb8fuyrsart4wx4n0k54x46o9k&rid=200w.gif&ct=g" /></p>
+
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
+
+
