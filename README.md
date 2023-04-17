@@ -15,8 +15,10 @@
   
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  
-<!-- Table Icons -->  
+
+<!-- Details -->
+<!-- Table Icons -->
+<!-- Experiencia -->
  <details>	
   <summary align="center"><b>I've worked with:</b></summary>
   
@@ -44,8 +46,12 @@
   
 </td></tr></table>
 </details>
+
+<!-- //Experiencia -->
   
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
+<!-- Estudando/Estudo -->
 <details>	
   <summary align="center"><b>Thinking about studying/studying:</b></summary>
   
@@ -60,14 +66,19 @@
 </td></tr></table>
 </details>
 
+<!-- //Estudando/Estudo -->
 <!-- //Table icons -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- Sobre mim -->
 <details>	
   <summary align="center"><b>About me?</b></summary>
-  <p></p>
+  <p>I'm Samuel José Candido, I was born in 2004 in Blumenau-SC. In 2015 I started my career in computing by taking my basic course, I did 1 year of learning but due to financial conditions I had to abandon it. In 2020, shortly after finishing high school, I went to apply for admission to the Instituto Federal Catarinense do Campus Blumenau with the integrated course of Computer Technician ending in 2023. Today I seek market experience and continue my studies on my own. because I don't have money to pay for college and support myself.</p>
 </details>
+
+<!-- //Sobre mim -->
+<!-- //Details -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <hr>
