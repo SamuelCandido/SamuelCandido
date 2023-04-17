@@ -74,7 +74,7 @@
 <!-- Sobre mim -->
 <details>	
   <summary align="center"><b>About me?</b></summary>
-  <p>I'm Samuel José Candido, I was born in 2004 in Blumenau-SC. In 2015 I started my career in computing by taking my basic course, I did 1 year of learning but due to financial conditions I had to abandon it. In 2020, shortly after finishing high school, I went to apply for admission to the Instituto Federal Catarinense do Campus Blumenau with the integrated course of Computer Technician ending in 2023. Today I seek market experience and continue my studies on my own. because I don't have money to pay for college and support myself. <a href="https://github.com/SamuelCandido/SamuelCandido/blob/main/Documents/curriculo_samuel_jose_candido-blumenau%20(1).pdf" target="_blank">My CV</a></p>
+  <p align="center">I'm Samuel José Candido, I was born in 2004 in Blumenau-SC. In 2015 I started my career in computing by taking my basic course, I did 1 year of learning but due to financial conditions I had to abandon it. In 2020, shortly after finishing high school, I went to apply for admission to the Instituto Federal Catarinense do Campus Blumenau with the integrated course of Computer Technician ending in 2023. Today I seek market experience and continue my studies on my own. because I don't have money to pay for college and support myself. <a href="https://github.com/SamuelCandido/SamuelCandido/blob/main/Documents/curriculo_samuel_jose_candido-blumenau%20(1).pdf" target="_blank">My CV</a></p>
   <p></p>
 </details>
 
