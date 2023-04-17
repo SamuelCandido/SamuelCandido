@@ -7,9 +7,10 @@
     
 <!-- Gitstats -->
 <div align="center">
-    <a href="https://app.daily.dev/samuelcandido"><img src="https://api.daily.dev/devcards/86ef72e46b684f8c946dbc43b6bb6732.png?r=2to" width="200" alt="Samuel José Candido's Dev Card"/></a>
-    <img height="50%" src="https://github-readme-stats.vercel.app/api?username=SamuelCandido&show_icons=true&count_private=true&title_color=00FFFF&icon_color=0000CD&text_color=00FFFF&bg_color=0,000000,130F40" alt="Samuel Candido github stats" /> 
-    <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelCandido&layout=compact&langs_count=6&title_color=00FFFF&text_color=00FFFF&bg_color=0,000000,130F40" />
+    <img height="40%" src="https://github-readme-stats.vercel.app/api?username=SamuelCandido&show_icons=true&count_private=true&title_color=00FFFF&icon_color=0000CD&text_color=00FFFF&bg_color=0,000000,130F40" alt="Samuel Candido github stats" /> 
+    <img height="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelCandido&layout=compact&langs_count=6&title_color=00FFFF&text_color=00FFFF&bg_color=0,000000,130F40" />
+  <a href="https://app.daily.dev/samuelcandido"><img height="165" src="https://api.daily.dev/devcards/86ef72e46b684f8c946dbc43b6bb6732.png?r=2to" alt="Samuel José Candido's Dev Card"/></a>
+    
 </div>
 <!-- //Gitstats -->
   
