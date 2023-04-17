@@ -2,7 +2,7 @@
 <!-- Apresentação -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Samuel+José+Candido;I+was+born+in+2004;I+am+from+Blumenau,+SC;Welcome+to+my+github!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Samuel+José+Candido;I+was+born+in+2004;I+am+from+Blumenau,+SC;Welcome+to+my+github!+)](https://git.io/typing-svg)
 
 <!-- //Apresentação -->
     
@@ -17,45 +17,98 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
 <!-- Table Icons -->  
-<div align="center" display="inline-block">
+ <details>	
+  <summary align="center"><b>I've worked with:</b></summary>
   
-  <h4>I've worked with:</h4>
+<table align="center"><tr><td valign="top" width="33%">
+<h3 align="center">Programming Languages</h3>
+<p align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
   
-  | Front-end | Back-end | Banco de dados |
-  |--- |--- |--- |
-  | <img align="center" alt="Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> | <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> | <img aling="center" alt="Sqlite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" /> |
-  | <img align="center" alt="Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> | <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> | <img aling="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> |
-  | <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> | <img align="center" alt="Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /> | <img align="center" alt="Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" /> |
-  | <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> |  | <img align="center" alt="Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" /> |
-</div>
-<!-- //Table icons -->
+<h3 align="center">Tools</h3>
+<p align="center"> <a href="https://code.visualstudio.com/" > <img src="https://i.ibb.co/vBw3R3Q/Visual-Studio-Code.png" width="40" height="40"/> </a> </p>
   
-<br>
+</td><td valign="top" width="33%">
+<h3 align="center">Frontend Development</h3>
+<p align="center"> <a href="https://www.w3schools.com/css/" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jquery.com/" > <img src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" width="40" height="40"/> </a> <a href="https://getbootstrap.com" > <img alt="Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> </a> </p>
+  
+<h3 align="center">Other</h3>
+<p align="center"> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://git-scm.com/" > <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></p>
+
+</td><td valign="top" width="33%">
+<h3 align="center">Backend Development</h3>
+<p align="center"> <a href="https://nodejs.org" > <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://expressjs.com" > <img src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4" alt="express" width="40" height="40"/> </a></p>
+
+<h3 align="center">Database</h3>
+<p align="center"> </a> <a href="https://www.sqlite.org/" > <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.postgre.com/" > <img alt="Postgresql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" /></a> </p>
+
+  
+</td></tr></table>
+</details>
+  
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<details>	
+  <summary align="center"><b>Thinking about studying/studying:</b></summary>
+  
+<table align="center"><tr><td valign="top" width="33%">
+<h3 align="center">Future</h3>
+<p align="center"><a href="https://java.com/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/></a><a href="https://mysql.com/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="40" height="40"/></a><a href="https://yii.com/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-original.svg" width="40" height="40"/></a><a href="https://django.com/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/></a><a href="https://angularjs.com/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/></a><a href="https://nextjs.com/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="40" height="40"/></a>
+ </p>
+ 
+<h3 align="center">learning</h3>
+<p align="center"> <a href="https://typescript.com/" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/></a><a href="https://php.com/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/></a><a href="https://www.mongodb.com/" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/><a href="https://reactjs.org/" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></p>
+  
+</td></tr></table>
+</details>
 
-### Tools:
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+<!-- //Table icons -->
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<details>	
+  <summary align="center"><b>About me?</b></summary>
+  <p></p>
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <hr>
     
 <!-- Contatos -->
-  <div align="center"> 
-      <h4>Reach me:</h4>
-      <a href = "mailto:samueljosecandido9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-      <a href="https://www.linkedin.com/in/samuel-jos%C3%A9-candido-410700231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-      <a href="https://wa.me/5547991071358" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
-      
-  </div>
+  <h4 align="center">Reach me:</h4>
+<p align="center">
+  <a href="https://www.linkedin.com/in/samuel-jos%C3%A9-candido-410700231/" target="_blank">
+    <img align="center" alt="linkedin logo" height="50" width="50" src="https://github.com/HyunCafe/HyunCafe/blob/main/assests/linkedinlogo.png"/>
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://github.com/SamuelCandido" target="_blank">
+    <img align="center" alt="github logo" height="50" width="50" src="https://github.com/HyunCafe/HyunCafe/blob/main/assests/githublogo.png"/>
+  </a> &nbsp;&nbsp;
+  
+  <a href="mailto:samueljosecandido9@gmail.com" target="_blank">
+    <img align="center" alt="gmail logo" height="50" width="50" src="https://github.com/HyunCafe/HyunCafe/blob/main/assests/gmailogo.png" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://wa.me/5547991071358" target="_blank"> 
+    <img align="center" alt="Whatzapp logo" height="50" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPyNjijCwomkVSCj4MIfsfp1at89Xv9MsiFHaRiBiUHxNnkc-4_ngsfBERkEcIC_HxwAk&usqp=CAU">
+  </a>  &nbsp;&nbsp;
+  
+  <a href="" target="_blank"> 
+    <img align="center" alt="CV logo" height="50" width="50" src="https://thumbs.dreamstime.com/b/resume-folder-icon-elements-interview-neon-style-icons-simple-icon-websites-web-design-mobile-app-info-graphics-resume-137881854.jpg">
+  </a>  &nbsp;&nbsp;
+
+  <a href="https://discord.com/me" target="_blank">
+    <img align="center" alt="Join My Discord" height="50" width="50" src="https://github.com/HyunCafe/HyunCafe/blob/main/assests/discordlogo.png"/>
+    <span>Aros Takashi#5961</span>
+  </a>
+  
+  
+  
+</p> 
 <!-- //Contatos -->
 
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></a></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{SamuelCandido}/count.svg" /></p>
-<p><img align="center"  height="165" src="https://media2.giphy.com/media/YrOB0Y5o2tFbHj5u31/200w.gif?cid=82a1493bkrg9hjvtemnex2xb8fuyrsart4wx4n0k54x46o9k&rid=200w.gif&ct=g" /></p>
+<p><img src="https://raw.githubusercontent.com/nilutpolkashyap/nilutpolkashyap/bd78f2b0e9a175ec1034d91d7c224b5c9d5ee494/thanks.svg" width="120%" title="hover text"></p>
 
 </div>
 
