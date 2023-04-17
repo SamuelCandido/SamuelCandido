@@ -74,7 +74,8 @@
 <!-- Sobre mim -->
 <details>	
   <summary align="center"><b>About me?</b></summary>
-  <p>I'm Samuel José Candido, I was born in 2004 in Blumenau-SC. In 2015 I started my career in computing by taking my basic course, I did 1 year of learning but due to financial conditions I had to abandon it. In 2020, shortly after finishing high school, I went to apply for admission to the Instituto Federal Catarinense do Campus Blumenau with the integrated course of Computer Technician ending in 2023. Today I seek market experience and continue my studies on my own. because I don't have money to pay for college and support myself.</p>
+  <p>I'm Samuel José Candido, I was born in 2004 in Blumenau-SC. In 2015 I started my career in computing by taking my basic course, I did 1 year of learning but due to financial conditions I had to abandon it. In 2020, shortly after finishing high school, I went to apply for admission to the Instituto Federal Catarinense do Campus Blumenau with the integrated course of Computer Technician ending in 2023. Today I seek market experience and continue my studies on my own. because I don't have money to pay for college and support myself. <a href="https://github.com/SamuelCandido/SamuelCandido/blob/main/Documents/curriculo_samuel_jose_candido-blumenau%20(1).pdf" target="_blank">My CV</a></p>
+  <p></p>
 </details>
 
 <!-- //Sobre mim -->
@@ -97,14 +98,6 @@
   <a href="mailto:samueljosecandido9@gmail.com" target="_blank">
     <img align="center" alt="gmail logo" height="50" width="50" src="https://github.com/HyunCafe/HyunCafe/blob/main/assests/gmailogo.png" />
   </a> &nbsp;&nbsp;
-  
-  <a href="https://wa.me/5547991071358" target="_blank"> 
-    <img align="center" alt="Whatzapp logo" height="50" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPyNjijCwomkVSCj4MIfsfp1at89Xv9MsiFHaRiBiUHxNnkc-4_ngsfBERkEcIC_HxwAk&usqp=CAU">
-  </a>  &nbsp;&nbsp;
-  
-  <a href="" target="_blank"> 
-    <img align="center" alt="CV logo" height="50" width="50" src="https://thumbs.dreamstime.com/b/resume-folder-icon-elements-interview-neon-style-icons-simple-icon-websites-web-design-mobile-app-info-graphics-resume-137881854.jpg">
-  </a>  &nbsp;&nbsp;
 
   <a href="https://discord.com/me" target="_blank">
     <img align="center" alt="Join My Discord" height="50" width="50" src="https://github.com/HyunCafe/HyunCafe/blob/main/assests/discordlogo.png"/>
