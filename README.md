@@ -11,7 +11,7 @@
       <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelCandido&layout=compact&langs_count=6&title_color=00FFFF&text_color=00FFFF&bg_color=0,000000,130F40" />
 </div>
 <div align="center">
-   <!--  <img height="50%" src="https://github-readme-streak-stats.herokuapp.com?user=Samuel%20Candido&theme=dark&border_radius=5&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&card_width=400&background=39%2C000000%2C130F40&border=00FFFF&stroke=00FFFF&ring=00FFFF&fire=FF0000&currStreakNum=FF0000&sideNums=00FFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=00FFFF&excludeDaysLabel=00FFFF" alt="GitHub Streak" /> -->
+   <img height="50%" src="https://github-readme-streak-stats.herokuapp.com?user=Samuel%20Candido&theme=dark&border_radius=5&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&card_width=400&background=39%2C000000%2C130F40&border=00FFFF&stroke=00FFFF&ring=00FFFF&fire=FF0000&currStreakNum=FF0000&sideNums=00FFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=00FFFF&excludeDaysLabel=00FFFF" alt="GitHub Streak" /> 
     <img height="50%" src="https://github-readme-stats.vercel.app/api?username=SamuelCandido&show_icons=true&count_private=true&title_color=00FFFF&icon_color=0000CD&card_width=400&text_color=00FFFF&bg_color=0,000000,130F40" alt="Samuel Candido github stats" />
 </div>
 <!-- //Gitstats -->
