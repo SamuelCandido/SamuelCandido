@@ -22,34 +22,93 @@
 <!-- Details -->
 <!-- Table Icons -->
 <!-- Experiencia -->
- <details>	
+<details>
   <summary align="center"><b>I've worked with:</b></summary>
-  
-<table align="center"><tr><td valign="top" width="33%">
-<h3 align="center">Programming Languages</h3>
-<p align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-  
-<h3 align="center">Tools</h3>
-<p align="center"> <a href="https://code.visualstudio.com/" > <img src="https://i.ibb.co/vBw3R3Q/Visual-Studio-Code.png" width="40" height="40"/> </a> </p>
-  
-</td><td valign="top" width="33%">
-<h3 align="center">Frontend Development</h3>
-<p align="center"> <a href="https://www.w3schools.com/css/" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jquery.com/" > <img src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" width="40" height="40"/> </a> <a href="https://getbootstrap.com" > <img alt="Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> </a> </p>
-  
-<h3 align="center">Other</h3>
-<p align="center"> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://git-scm.com/" > <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></p>
 
-</td><td valign="top" width="33%">
+<table align="center">
+<tr>
+
+<!-- Linguagens -->
+<td valign="top" width="33%">
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  </a>
+  <a href="https://www.python.org">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  </a>
+  <a href="https://www.oracle.com/java/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  </a>
+  <a href="https://www.embarcadero.com/products/delphi">
+    <img src="https://raw.githubusercontent.com/SamuelCandido/SamuelCandido/main/Documents/delphi.png" width="40" height="40" alt="Delphi"/>
+  </a>
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <a href="https://code.visualstudio.com/">
+    <img src="https://i.ibb.co/vBw3R3Q/Visual-Studio-Code.png" width="40" height="40" alt="VSCode"/>
+  </a>
+  <a href="https://www.embarcadero.com/products/delphi">
+    <img src="https://raw.githubusercontent.com/SamuelCandido/SamuelCandido/main/Documents/delphi.png" width="40" height="40" alt="Delphi"/>
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
+  </a>
+</p>
+</td>
+
+<!-- Frontend -->
+<td valign="top" width="33%">
+<h3 align="center">Frontend Development</h3>
+<p align="center">
+  <a href="https://reactjs.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
+  </a>
+  <a href="https://www.w3schools.com/css/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
+  </a>
+  <a href="https://www.w3.org/html/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  </a>
+</p>
+</td>
+
+<!-- Backend & DB -->
+<td valign="top" width="33%">
 <h3 align="center">Backend Development</h3>
-<p align="center"> <a href="https://nodejs.org" > <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://expressjs.com" > <img src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4" alt="express" width="40" height="40"/> </a></p>
+<p align="center">
+<a href="https://www.embarcadero.com/products/delphi">
+  <img src="https://raw.githubusercontent.com/SamuelCandido/SamuelCandido/main/Documents/delphi.png" width="40" height="40" alt="Delphi"/>
+</a>
+  <a href="https://www.python.org">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  </a>
+  <a href="https://www.oracle.com/java/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  </a>
+</p>
 
 <h3 align="center">Database</h3>
-<p align="center"> </a> <a href="https://www.sqlite.org/" > <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.postgre.com/" > <img alt="Postgresql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" /></a> </p>
+<p align="center">
+  <a href="https://www.postgresql.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40" alt="PostgreSQL"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/SQL">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="40" height="40" alt="SQL"/>
+  </a>
+</p>
+</td>
 
-  
-</td></tr></table>
+</tr>
+</table>
+
 </details>
-
 <!-- //Experiencia -->
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -58,13 +117,22 @@
 <details>	
   <summary align="center"><b>Thinking about studying/studying:</b></summary>
   
-<table align="center"><tr><td valign="top" width="33%">
+<table align="center"><tr><td valign="top" width="100%">
+
+<h3 align="center">Learning</h3>
+<p align="center"> 
+  <a href="https://platform.openai.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="40" height="40" alt="IA / ChatGPT"/>
+  </a>
+</p>
+
 <h3 align="center">Future</h3>
-<p align="center"><a href="https://java.com/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/></a><a href="https://mysql.com/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="40" height="40"/></a><a href="https://yii.com/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-original.svg" width="40" height="40"/></a><a href="https://django.com/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/></a><a href="https://angularjs.com/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/></a><a href="https://nextjs.com/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="40" height="40"/></a>
- </p>
- 
-<h3 align="center">learning</h3>
-<p align="center"> <a href="https://typescript.com/" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/></a><a href="https://php.com/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/></a><a href="https://www.mongodb.com/" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/><a href="https://reactjs.org/" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></p>
+<p align="center">
+    <a href="https://aws.amazon.com/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazonaws.svg" width="40" height="40" alt="AWS"/>
+  </a>
+</p>
+
   
 </td></tr></table>
 </details>
@@ -76,9 +144,23 @@
 
 <!-- Sobre mim -->
 <details>	
-  <summary align="center"><b>About me?</b></summary>
-  <p align="center">I'm Samuel José Candido, I was born in 2004 in Blumenau-SC. In 2015 I started my career in computing by taking my basic course, I did 1 year of learning but due to financial conditions I had to abandon it. In 2020, shortly after finishing high school, I went to apply for admission to the Instituto Federal Catarinense do Campus Blumenau with the integrated course of Computer Technician ending in 2023. Today I seek market experience and continue my studies on my own. because I don't have money to pay for college and support myself. <a href="https://github.com/SamuelCandido/SamuelCandido/blob/main/Documents/curriculo_samuel_jose_candido-blumenau%20(1).pdf" target="_blank">My CV</a></p>
-  <p></p>
+  <summary align="center"><b>About me</b></summary>
+  <p align="center">
+    I'm <strong>Samuel José Candido</strong>, a passionate Software Developer born in 2004 in Blumenau-SC, Brazil.
+  </p>
+  <p align="center">
+    I began my journey in computing in 2015 with a basic IT course, which I had to pause due to financial limitations.
+    In 2020, I enrolled in the <strong>Instituto Federal Catarinense (IFC)</strong> – Campus Blumenau, completing the integrated program in Computer Technician in 2023.
+  </p>
+  <p align="center">
+    Currently, I work professionally with <strong>Delphi (VCL)</strong> and backend systems using PostgreSQL. I'm constantly exploring new technologies through personal projects, such as automated cost agents, dashboards, and interactive web games.
+  </p>
+  <p align="center">
+    I continue to learn independently, diving into areas like AI and cloud computing, with a special interest in <strong>AWS</strong>.
+  </p>
+  <p align="center">
+    💼 <a href="https://github.com/SamuelCandido/SamuelCandido/blob/main/Documents/curriculo_samuel_jose_candido-blumenau.pdf" target="_blank">View My CV</a>
+  </p>
 </details>
 
 <!-- //Sobre mim -->
