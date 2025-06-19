@@ -160,8 +160,11 @@
     I continue to learn independently, diving into areas like AI and cloud computing, with a special interest in <strong>AWS</strong>.
   </p>
   <p align="center">
-    💼 <a href="https://github.com/SamuelCandido/SamuelCandido/blob/main/Documents/curriculo_samuel_jose_candido-blumenau.pdf" target="_blank">View My CV</a>
-  </p>
+  <img src="https://github.com/SamuelCandido/SamuelCandido/blob/main/Documents/pixel.png" width="40" alt="Pixel Samuel" style="vertical-align: middle; margin-right: 8px;" />
+  <a href="https://github.com/SamuelCandido/SamuelCandido/blob/main/Documents/curriculo_samuel_jose_candido-blumenau.pdf" target="_blank">
+    💼 View My CV
+  </a>
+</p>
 </details>
 
 <!-- //Sobre mim -->
