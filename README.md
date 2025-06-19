@@ -2,7 +2,8 @@
 <!-- Apresentação -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Samuel+José+Candido;I+was+born+in+2004;I+am+from+Blumenau,+SC;Welcome+to+my+github!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Samuel+José+Candido.;Born+in+2004,+from+Pomerode,+SC.;Software+Developer+and+Tech+Enthusiast.;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+
 
 <!-- //Apresentação -->
     
